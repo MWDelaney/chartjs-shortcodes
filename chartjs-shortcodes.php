@@ -81,7 +81,7 @@ class ChartjsShortcodes {
       
     $atts = shortcode_atts( array(
       "type"       => false,
-      "width"      => 100%,
+      "width"      => '100%',
       "height"     => 400,
       "labels"     => false,
       "legend"     => false
